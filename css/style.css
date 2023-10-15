@@ -1,0 +1,96 @@
+footer {
+    position: flex;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #f5f5f5;
+    margin-top: 50px;
+  }
+  .cardContainer {
+    margin-bottom: 15px;
+  }
+  .card {
+    margin: 0 auto;
+  }
+  .signUp form {
+    margin: 35px auto;
+    background-color: #f2f2f2;
+    padding: 25px;
+    border-radius: 7px;
+  }
+
+.heroBanner1 {
+    background-image: url(../images/02-hero-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: calc(70vh - 25px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #f2f2f2;
+}
+
+/* About Section CSS */
+
+#about p {
+  text-align: center;
+  max-width: 700px;
+  font-size: 12px;
+  font-weight: 300;
+  margin: 20px auto 20px auto;
+  color: #636364;
+  padding: 0px 50px 50px 25px;
+  border-bottom: 2px solid black;
+}
+
+#about h2 {
+    font-size: 32px;
+    margin: auto;
+    color: color grey;
+    text-align: center;
+    padding: 50px 50px 0px 25px;
+  }
+
+#portfolioCards h2 {
+    font-size: 32px;
+    margin: auto;
+    color: color grey;
+    text-align: center;
+    padding: 0px 50px 50px 50px;
+  }
+
+
+/* Portfolio cards Start */
+
+#portfolioCards {
+    padding: 50px 50px 50px 50px;
+}
+
+/* Footer Styles */
+
+#contact {
+    text-align: center;
+    border-bottom: 2px solid black;
+    width: 600px;
+    margin: 20px auto 20px auto;
+    padding-bottom: 50px;
+  }
+  
+  #navBar2 {
+    display: flex;
+    flex-direction: row;
+    margin: 10px 5%;
+  }
+  
+  #navigation2 {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  #navigation2 a {
+    cursor: pointer;
+    text-decoration: none;
+  
+  }
