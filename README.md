@@ -8,19 +8,15 @@ Bootstrap Project Repo
 <p>Please see below the screenshots of my latest project using Bootstrap 5</p>
 
 JumboTron
-
-![image](https://github.com/Futurefree/Bootstrap-Portfolio/assets/80590464/085a6d22-d405-4bc6-9b83-5d72811d12ac)
-
-
-Cards
-
 ![image](https://github.com/Futurefree/Bootstrap-Portfolio/assets/80590464/2f7d8a48-a1ba-44b9-83cf-31c946263cdb)
 
 
+Cards
+![image](https://github.com/Futurefree/Bootstrap-Portfolio/assets/80590464/085a6d22-d405-4bc6-9b83-5d72811d12ac)
+
+
 Contact
-
 ![image](https://github.com/Futurefree/Bootstrap-Portfolio/assets/80590464/0ae19833-5ee1-40ae-b09c-c6aba98ce30d)
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=futurefree&label=Profile%20views&color=0e75b6&style=flat" alt="futurefree" /> </p>
