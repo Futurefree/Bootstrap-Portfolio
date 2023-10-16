@@ -7,17 +7,19 @@ Bootstrap Project Repo
 
 <p>Please see below the screenshots of my latest project using Bootstrap 5</p>
 
-<img src"
+JumboTron
+
+<img src"https://github.com/Futurefree/Bootstrap-Portfolio/blob/4ac786825a50a99b6e2db4acdff06fe5ddb6ec04/Screenshots%20and%20Headshots/Screenshot%202023-10-16%20at%2018.18.31.png"/>
 
 
+Cards
+
+<img src"https://github.com/Futurefree/Bootstrap-Portfolio/blob/4ac786825a50a99b6e2db4acdff06fe5ddb6ec04/Screenshots%20and%20Headshots/Screenshot%202023-10-16%20at%2018.18.38.png"/>
 
 
+Contact
 
-
-
-
-
-
+<img src"https://github.com/Futurefree/Bootstrap-Portfolio/blob/4ac786825a50a99b6e2db4acdff06fe5ddb6ec04/Screenshots%20and%20Headshots/Screenshot%202023-10-16%20at%2018.18.45.png"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=futurefree&label=Profile%20views&color=0e75b6&style=flat" alt="futurefree" /> </p>
