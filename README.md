@@ -9,19 +9,18 @@ Bootstrap Project Repo
 
 JumboTron
 
-!(https://github.com/Futurefree/Bootstrap-Portfolio/blob/4ac786825a50a99b6e2db4acdff06fe5ddb6ec04/Screenshots%20and%20Headshots/Screenshot%202023-10-16%20at%2018.18.31.png)
-
-<img src"https://github.com/Futurefree/Bootstrap-Portfolio/blob/4ac786825a50a99b6e2db4acdff06fe5ddb6ec04/Screenshots%20and%20Headshots/Screenshot%202023-10-16%20at%2018.18.31.png"/>
+![image](https://github.com/Futurefree/Bootstrap-Portfolio/assets/80590464/085a6d22-d405-4bc6-9b83-5d72811d12ac)
 
 
 Cards
 
-<img src"https://github.com/Futurefree/Bootstrap-Portfolio/blob/4ac786825a50a99b6e2db4acdff06fe5ddb6ec04/Screenshots%20and%20Headshots/Screenshot%202023-10-16%20at%2018.18.38.png"/>
+![image](https://github.com/Futurefree/Bootstrap-Portfolio/assets/80590464/2f7d8a48-a1ba-44b9-83cf-31c946263cdb)
 
 
 Contact
 
-<img src"https://github.com/Futurefree/Bootstrap-Portfolio/blob/4ac786825a50a99b6e2db4acdff06fe5ddb6ec04/Screenshots%20and%20Headshots/Screenshot%202023-10-16%20at%2018.18.45.png"/>
+![image](https://github.com/Futurefree/Bootstrap-Portfolio/assets/80590464/0ae19833-5ee1-40ae-b09c-c6aba98ce30d)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=futurefree&label=Profile%20views&color=0e75b6&style=flat" alt="futurefree" /> </p>
